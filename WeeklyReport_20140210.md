@@ -12,7 +12,7 @@
 
 ----------------------------
 ### 業務
-* 創新(Hackathon)：籌劃今年度[交大黑客松](官網http://hackathon.nctu.edu.tw/) (企業出題與贊助http://bit.ly/1gFNOzD)，AppUniverz為協辦單位，將於活動開場時上台致詞。交大黑客松執行團隊已公佈參賽隊伍名單(http://hackathon.nctu.edu.tw/list.html )、借好兩間計中作為比賽使用空間、紀念品USB與Ｔ-shirt也已製作完成。
+* 創新(Hackathon)：籌劃今年度[交大黑客松](官網http://hackathon.nctu.edu.tw/) (企業出題與贊助http://bit.ly/1gFNOzD )，AppUniverz為協辦單位，將於活動開場時上台致詞。交大黑客松執行團隊已公佈參賽隊伍名單(http://hackathon.nctu.edu.tw/list.html )、借好兩間計中作為比賽使用空間、紀念品USB與Ｔ-shirt也已製作完成。
 * 行動(Course)：籌劃今年度清交課程「App創業與實作」，清大確定開在2014上半年，交大確定開在2014下半年。目前AppUniverz負責協助清大安排十位講師/業師，以及Andorid教材撰寫者。講師正陸續接洽確認中，Android教材負責人 Jim 與清大 TA Marcus 也正密切討論教材內容。
 * 服務(Network)：資策會 DOIT 與 Flying V 正與 AU 討論合作活動，欲共同規劃年度大型活動：船長培訓營。另外 DOIT 今年要辦清大交大中央元智成大等校的校園講座(AU負責掌握清交、中央跟元智請校園大使幫忙)，講座的講者會請 MIC 分析師來講 IoT 與 電商的趨勢分析。
 * 校園大使：[AppUniverz校園大使2013](https://aucampus2013.hackpad.com/)。
