@@ -12,7 +12,7 @@
 
 ----------------------------
 ### 業務
-* 創新(Hackathon)：2014[交大黑客松](http://hackathon.nctu.edu.tw/index.html#flow)順利落幕，相關文字記錄與專訪正在撰寫中(將分享於AU粉絲專頁)。
+* 創新(Hackathon)：2014[交大黑客松](http://hackathon.nctu.edu.tw/index.html#flow)順利落幕，[相關文字記錄](http://www.bnext.com.tw/article/view/id/31227)已分享於AU粉絲專頁。
 * 行動(Course)：今年度清大「App創業與實作」課程開始進行。AppUniverz負責協助安排十位講師/業師、Andorid教材撰寫者，以及課堂紀錄(將分享於AU粉絲專頁)。
 * 服務(Network)：資策會 DOIT 與 Flying V 正與 AU 討論合作活動，欲共同規劃年度大型活動：船長培訓營。另外 DOIT 今年欲舉辦清大交大中央元智成大等校的校園講座(AU負責掌握清交、中央跟元智請校園大使幫忙)，講座的講者會請 MIC 分析師來講 IoT 與 電商的趨勢分析。
 * 校園大使：[AppUniverz校園大使2013](https://aucampus2013.hackpad.com/)。
@@ -54,7 +54,7 @@
 * 創新(Hackathon)：3/13與Flying V開會討論培訓營事項。
 * 行動(Course)：與吳毅誠教授聯繫，討論交大App創業課程、與DOIT討論校園巡回講座的主題、時間、地點。
 * 服務(Network)：持續與潛在贊助會員交流，並整理AU今年度活動資訊給會員。
-* 主辦活動：與 Flying V 共同規劃出活動流程、課程內容與人員名單(Mentor, 工作人員)，並於3/13與 Flying V 開會定案。
+* 主辦活動：與 Flying V 共同規劃出活動流程、課程內容與人員名單(Mentor, 工作人員)，並於3/13與 Flying V 開會定案、3/20與DOIT開會分配工作。
 * 協辦活動：(暫無)。
 * 其他：實習生教學與工作分配，並詢問工讀費用相關事宜。
 
