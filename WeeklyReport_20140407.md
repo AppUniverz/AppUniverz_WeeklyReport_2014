@@ -12,12 +12,11 @@
 
 ----------------------------
 ### 業務
-* 創新(Hackathon)：船長培訓營由 AU 及 DOIT 雙主辦，FlyingV 協辦。目前活動規劃
-另 DOIT 今年度將與 AU 共同舉辦八場校園巡回講座，由 MIC 分析師以及 AU 邀請業師來講 IoT 與電商的趨勢分析。
-* 行動(Course)：清大[App創業與實作](https://drive.google.com/folderview?id=0Byfxakd_Uoa5Rmctd3BMSVFCTjg&usp=sharing)。目前由清大育成與清大THIS籌劃期末 Demo Show。
+* 創新(Hackathon)：船長培訓營由 AU 及 DOIT 雙主辦，FlyingV 協辦，另 DOIT 今年度將與 AU 共同舉辦八場校園巡回講座，由 MIC 分析師以及 AU 邀請業師來講 IoT 與電商的趨勢分析。
+* 行動(Course)：清大[App創業與實作](https://drive.google.com/folderview?id=0Byfxakd_Uoa5Rmctd3BMSVFCTjg&usp=sharing)。目前由清大育成與清大 THIS 籌劃期末 Demo Show。
 * 服務(Network)：計劃於五月底或六月初舉辦上半年度會員大會，供AU會員進行交流，並瞭解AU活動與計劃。
 * 校園大使：[AppUniverz校園大使2013](https://aucampus2013.hackpad.com/)。
-* 主辦活動：船長培訓營(五個週末的營期以培訓 App 團隊成立 Start-up 為目標)，與 DOIT 雙主辦、FlyingV 協辦，目前經過幾次開會討論，正在撰寫活動企劃書以及成立執行團隊。
+* 主辦活動：船長培訓營(五個週末的營期以培訓 App 團隊成立 Start-up 為目標)，與 DOIT 雙主辦、FlyingV 協辦，活動規劃討論串在[FB社團](https://www.facebook.com/groups/620587151369113/)。
 * 協辦活動：下學期清大黑客松由清大 THIS 社團主辦，主題為智慧家庭。下學期開辦交大App課程，待與交大 吳毅成 教授討論。
 * 其他：(略)。
 
