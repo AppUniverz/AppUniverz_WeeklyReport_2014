@@ -8,7 +8,7 @@
 * 會議相關：第二屆第二次理監事大會[會議記錄](https://drive.google.com/file/d/0Byfxakd_Uoa5cG9KMWt5dXhVbDA/edit?usp=sharing)將儘速送交內政部。
 * 會員管理：[會員清單](https://docs.google.com/spreadsheet/ccc?key=0Aq7L8Y46XVAVdHRlWHNPLUdtU1pyR0kyaXdGX2JpRkE&usp=sharing)將儘速送交內政部。
 * 財務管理：[AppUniverz財務狀況](http://bit.ly/AU-Finance)，目前結餘為 127,697。
-* 其他事項：實習生會務工作分配：財務管理-Janet、會員管理-Jamie、網站管理-Null、活動管理-Even & Jason。位
+* 其他事項：實習生會務工作分配：財務管理-Janet、會員管理-Jamie、網站管理-Null、活動管理-Even & Jason。
 
 ----------------------------
 ### 業務
