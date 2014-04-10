@@ -12,7 +12,7 @@
 
 ----------------------------
 ### 業務
-* 創新(Hackathon)：船長培訓營由 AU 及 DOIT 雙主辦，FlyingV 協辦，另 DOIT 今年度將與 AU 共同舉辦八場校園巡回講座，由 MIC 分析師以及 AU 邀請業師來講 IoT 與電商的趨勢分析。
+* 創新(Hackathon)：船長培訓營由 AU 及 DOIT 雙主辦，FlyingV 協辦。另 DOIT 今年度將與 AU 共同舉辦八場校園巡迴講座，由 MIC 分析師以及 AU 邀請業師來講 IoT 與電商的趨勢分析，並且由清大 THIS 做學生調查，了解講座題目對學生的需求程度。
 * 行動(Course)：清大[App創業與實作](https://drive.google.com/folderview?id=0Byfxakd_Uoa5Rmctd3BMSVFCTjg&usp=sharing)。目前由清大育成與清大 THIS 籌劃期末 [Demo Show](https://github.com/AppUniverz/AppUniverz_WeeklyReport_2014/blob/master/WeeklyReport_20140407.md)。
 * 服務(Network)：計劃於五月底或六月初舉辦上半年度會員大會，供AU會員進行交流，並瞭解AU活動與計劃。
 * 校園大使：[AppUniverz校園大使2013](https://aucampus2013.hackpad.com/)。
