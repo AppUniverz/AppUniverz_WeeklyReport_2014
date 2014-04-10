@@ -13,7 +13,7 @@
 ----------------------------
 ### 業務
 * 創新(Hackathon)：船長培訓營由 AU 及 DOIT 雙主辦，FlyingV 協辦，另 DOIT 今年度將與 AU 共同舉辦八場校園巡回講座，由 MIC 分析師以及 AU 邀請業師來講 IoT 與電商的趨勢分析。
-* 行動(Course)：清大[App創業與實作](https://drive.google.com/folderview?id=0Byfxakd_Uoa5Rmctd3BMSVFCTjg&usp=sharing)。目前由清大育成與清大 THIS 籌劃期末 Demo Show。
+* 行動(Course)：清大[App創業與實作](https://drive.google.com/folderview?id=0Byfxakd_Uoa5Rmctd3BMSVFCTjg&usp=sharing)。目前由清大育成與清大 THIS 籌劃期末 [Demo Show](https://github.com/AppUniverz/AppUniverz_WeeklyReport_2014/blob/master/WeeklyReport_20140407.md)。
 * 服務(Network)：計劃於五月底或六月初舉辦上半年度會員大會，供AU會員進行交流，並瞭解AU活動與計劃。
 * 校園大使：[AppUniverz校園大使2013](https://aucampus2013.hackpad.com/)。
 * 主辦活動：船長培訓營(五個週末的營期以培訓 App 團隊成立 Start-up 為目標)，與 DOIT 雙主辦、FlyingV 協辦，活動規劃討論串在[FB社團](https://www.facebook.com/groups/620587151369113/)。
@@ -33,7 +33,7 @@
 
 * 第二屆第三次理監事大會 2014/04/18  14:00 @ 永康街二號
 * 清大黑客松(協辦，暫定2014/10)：與清大THIS社長林展逸討論規劃。
-* 清大「App創業與實作」課程：清大育成中心及 THIS 共同策劃學期末 Demo Show，近期會將企劃書完成。
+* 清大「App創業與實作」課程：清大育成中心及 THIS 共同策劃學期末 [Demo Show](https://github.com/AppUniverz/AppUniverz_WeeklyReport_2014/blob/master/WeeklyReport_20140407.md)。
 * 交大「App創業與實作」課程：五月底前跟吳毅誠教授確認課綱。
 * AppUniverz年度大型活動-[船長培訓營](https://drive.google.com/folderview?id=0B67L8Y46XVAVZ3BrZnNYZHowZU0&usp=sharing)，活動流程、預算、課程內容與人員名單(含Mentor與工作執行人員)等定案，並於理監事大會時提出企劃簡報。
 * DOIT校園巡迴講座：DOIT將重新擬定八場講座主題。
