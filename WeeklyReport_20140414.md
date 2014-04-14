@@ -11,15 +11,16 @@
 * 其他事項：實習生會務工作分配：財務管理-Janet、會員管理-Jamie & Jason、網站管理-Null、活動管理-Even。
 
 ### 業務
-* 創新(Hackathon)：
+
+#### 創新(Hackathon)：
 * 船長培訓營：為五個週末的營期，以培訓「創新行動服務」團隊成立 Startups 為目標，由 AU 及 DOIT 雙主辦，FlyingV 協辦，計劃找尋贊助企業與單位。活動規劃討論串在[FB社團](https://www.facebook.com/groups/620587151369113/)。
 
-* 行動(Course)：
+#### 行動(Course)：
 * 清大[App創業與實作](https://drive.google.com/folderview?id=0Byfxakd_Uoa5Rmctd3BMSVFCTjg&usp=sharing)：由AU負則策劃與講師邀請，並由清大育成與清大 THIS 籌劃期末 [Demo Show](https://github.com/AppUniverz/AppUniverz_WeeklyReport_2014/blob/master/WeeklyReport_20140407.md)。
 * 交大App創業與實作：下週將與交大 吳毅成 教授共同討論交大課程。
 * 校園講座：DOIT 今年度將與 AU 共同舉辦八場校園巡迴講座，由 MIC 分析師以及 AU 邀請業師來講 IoT 與電商的趨勢分析，並且由清大 THIS 于本週完成學生調查，了解講座題目對學生的需求程度。
 
-* 服務(Network)：
+#### 服務(Network)：
 * 會員大會：計劃於五月底或六月初舉辦上半年度會員大會，供AU會員進行交流，並瞭解AU活動與計劃。
 * 校園大使：[AppUniverz校園大使2013](https://aucampus2013.hackpad.com/)。
 * 其他：(略)。
