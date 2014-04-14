@@ -16,7 +16,7 @@
 * 船長培訓營：為五個週末的營期，以培訓「創新行動服務」團隊成立 Startups 為目標，由 AU 及 DOIT 雙主辦，FlyingV 協辦，計劃找尋贊助企業與單位。活動規劃討論串在[FB社團](https://www.facebook.com/groups/620587151369113/)。
 
 #### 行動(Course)：
-* 清大[App創業與實作](https://drive.google.com/folderview?id=0Byfxakd_Uoa5Rmctd3BMSVFCTjg&usp=sharing)：由AU負則策劃與講師邀請，並由清大育成與清大 THIS 籌劃期末 [Demo Show](https://github.com/AppUniverz/AppUniverz_WeeklyReport_2014/blob/master/WeeklyReport_20140407.md)。
+* [清大App創業與實作](https://drive.google.com/folderview?id=0Byfxakd_Uoa5Rmctd3BMSVFCTjg&usp=sharing)：由AU負則策劃與講師邀請，並由清大育成與清大 THIS 籌劃期末 [Demo Show](https://github.com/AppUniverz/AppUniverz_WeeklyReport_2014/blob/master/WeeklyReport_20140407.md)。
 * 交大App創業與實作：下週將與交大 吳毅成 教授共同討論交大課程。
 * 校園講座：DOIT 今年度將與 AU 共同舉辦八場校園巡迴講座，由 MIC 分析師以及 AU 邀請業師來講 IoT 與電商的趨勢分析，並且由清大 THIS 于本週完成學生調查，了解講座題目對學生的需求程度。
 
@@ -63,7 +63,7 @@
 * 船長培訓營：活動重新命名、確認導師與講師名單、評估活動預算、規劃宣傳管道、拍攝企劃等。將于4/18 上午與 DOIT & Flying V 開會討論，並于當日下午理監事大會中提出簡報定案。活動規劃討論串在[FB社團](https://www.facebook.com/groups/620587151369113/)。
 
 ##### 行動(Course)：
-* 清大[App創業與實作](https://drive.google.com/folderview?id=0Byfxakd_Uoa5Rmctd3BMSVFCTjg&usp=sharing)：由清大育成與清大 THIS 籌劃期末 [Demo Show](https://github.com/AppUniverz/AppUniverz_WeeklyReport_2014/blob/master/WeeklyReport_20140407.md)，每週三上午固定討論。
+* [清大App創業與實作](https://drive.google.com/folderview?id=0Byfxakd_Uoa5Rmctd3BMSVFCTjg&usp=sharing)：由清大育成與清大 THIS 籌劃期末 [Demo Show](https://github.com/AppUniverz/AppUniverz_WeeklyReport_2014/blob/master/WeeklyReport_20140407.md)，每週三上午固定討論。
 * 交大App創業與實作：下週將與交大 吳毅成 教授共同討論交大課程，以及交大黑客松未來發展。
 * 校園講座：由清大 THIS 于本週完成學生調查，了解講座題目對學生的需求程度，再與 DOIT 討論講座時間地點。
 
