@@ -60,7 +60,7 @@
 #### 業務
 
 ##### 創新(Hackathon)：
-* 船長培訓營：進行導師講師邀約、主視覺與網站等設計。將于4/18 上午與 DOIT & Flying V 開會討論，並于當日下午理監事大會中提出簡報定案。活動規劃討論串在[FB社團](https://www.facebook.com/groups/620587151369113/)。
+* 船長培訓營：進行導師講師邀約、主視覺與網站等設計，並完成活動企劃書與簡報。活動規劃討論串在[FB社團](https://www.facebook.com/groups/620587151369113/)，另將相關文件存放於[Google Drive](https://drive.google.com/folderview?id=0B67L8Y46XVAVZ3BrZnNYZHowZU0&usp=sharing)。
 
 ##### 行動(Course)：
 * [清大App創業與實作](https://drive.google.com/folderview?id=0Byfxakd_Uoa5Rmctd3BMSVFCTjg&usp=sharing)：由清大育成與清大 THIS 籌劃期末 [Demo Show](https://drive.google.com/file/d/0Byfxakd_Uoa5WnFGX0NhcjNVb1E/edit?usp=sharing)，每週三上午固定討論。
