@@ -25,7 +25,7 @@
 * 財務組(Janet)：[財務規劃](https://docs.google.com/spreadsheets/d/1d8GmxiNqlX6G1sP-Oi0CchoJBZ5jTebJbuVmrtNhReg/edit?usp=sharing)
 * 其他：積極找尋贊助單位！
 
-#### 行動(Course)：* 交大「App創業與實作」課程：5/1與吳毅誠教授討論開課事宜。、台大創聯會* 交大黑客松(2月結束)：請執行團隊整理出黑客松成果給贊助單位、 5/8 下午與Victor & 高子漢學長討論下一屆活動。
+#### 行動(Course)：
 
 ##### [清大App創業與實作](https://drive.google.com/folderview?id=0Byfxakd_Uoa5Rmctd3BMSVFCTjg&usp=sharing)
 * 已於4/22完成期中Demo。
