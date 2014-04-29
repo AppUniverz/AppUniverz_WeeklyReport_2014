@@ -16,7 +16,7 @@
 
 #### 創新(Hackathon)：
 ##### [船長培訓營](https://drive.google.com/folderview?id=0B67L8Y46XVAVZ3BrZnNYZHowZU0&usp=sharing)
-* 營期為七月每個週末六日，以培訓「創新行動服務」團隊成立 Startups 為目標，由 AU 及 DOIT 雙主辦，FlyingV 協辦。培訓地點：DOIT Opsn Space。
+* 營期為七月每個週末六日，以培訓「創新行動服務」團隊成立 Startups 為目標，由 AU 及 DOIT 雙主辦，FlyingV 協辦。培訓地點：DOIT Open Space。
 * 總召(Jessie)/副召(子元)：[活動討論串在FB社團](https://www.facebook.com/groups/620587151369113/)、[營隊規劃](https://drive.google.com/file/d/0Byfxakd_Uoa5a0dLaXY4dHZpVUU/edit?usp=sharing)、[課程規劃](https://docs.google.com/document/d/1-eF2kPJvgzysEfOgC-FMrTrmi-VPLEqF66aZqftePp0/edit?usp=sharing)
 * 活動組(Even)：[團隊執行時程表](https://docs.google.com/spreadsheet/ccc?key=0AqzCZUZLyeo6dFVGeS1iWkZ0TXA4Y3FpQV9sQUdmYmc&usp=sharing)
 * 行銷組(Jason)：[影片拍攝規劃](https://docs.google.com/document/d/1EB6C7EapT57dJY06EaT-q71lgFXyrfghrejXPLA_WV0/edit?usp=sharing)、[粉絲專頁規劃](https://docs.google.com/spreadsheets/d/1uaGcTV1G6GaS0Xnq-I4C8dl4lcr668lr3GNAK6ndFLQ/edit?usp=sharing)
