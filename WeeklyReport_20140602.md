@@ -20,8 +20,9 @@
 * 執行團隊：總召(Jessie)/副召(子元)/活動組(Even)/行銷組(Jason)/公關組(Jamie)/場器組(Null)/財務組(Janet)
 * [課程規劃](https://docs.google.com/document/d/1-eF2kPJvgzysEfOgC-FMrTrmi-VPLEqF66aZqftePp0/edit?usp=sharing)：七月每個週末六日。培訓地點：DOIT Open Space。
 * 企業參訪：7/25 上午參訪 iKala，下午參訪 Hiiir。
-* Work Shop：8/1 整天於資策會數教所
+* Work Shop：8/1 整天於資策會數教所。
 * Fianl Demo Day：8/2 下午於 Microsoft 會議廳。
+* 結業慶功：8/2 晚上 (地點未定)。
 * 活動討論串在[FB社團](https://www.facebook.com/groups/620587151369113/)，營隊財務狀況：[預算支出與贊助狀況](https://docs.google.com/spreadsheets/d/1N96mJhpK3NAnWVUGnFDQRZ-fsaQ1zCusyyoxQZVK1iE/edit?usp=sharing)
 * 6/8 截止報名，目前進入報名倒數階段，持續努力宣傳當中！
 
