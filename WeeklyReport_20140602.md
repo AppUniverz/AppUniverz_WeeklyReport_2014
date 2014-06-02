@@ -18,7 +18,7 @@
 ##### 船長培訓營 [官方活動網頁](http://captaincamp.appuniverz.org/)
 * 以培訓「創新行動服務」團隊成立 Startups 為目標，由 AU 及 DOIT 雙主辦，FlyingV 、Hiiir、Alpha Camp、艾特網路等單位協辦。
 * 執行團隊：總召(Jessie)/副召(子元)/活動組(Even)/行銷組(Jason)/公關組(Jamie)/場器組(Null)/財務組(Janet)
-* 培訓規劃：七月每個週末六日。培訓地點：DOIT Open Space。[課程規劃](https://docs.google.com/document/d/1-eF2kPJvgzysEfOgC-FMrTrmi-VPLEqF66aZqftePp0/edit?usp=sharing)
+* [課程規劃](https://docs.google.com/document/d/1-eF2kPJvgzysEfOgC-FMrTrmi-VPLEqF66aZqftePp0/edit?usp=sharing)：七月每個週末六日。培訓地點：DOIT Open Space。
 * 企業參訪：7/25 上午參訪 iKala，下午參訪 Hiiir。
 * Work Shop：8/1 整天於資策會數教所
 * Fianl Demo Day：8/2 下午於 Microsoft 會議廳。
