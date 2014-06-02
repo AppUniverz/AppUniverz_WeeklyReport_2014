@@ -1,14 +1,14 @@
-## WeeklyReport_20140526
+## WeeklyReport_20140602
 
 * 每週彙報改版
 * AppUniverz工作管理區：https://trello.com/appuniverzorg
 
 ----------------------------
 ### 會務
-* 會議相關：第二屆第三次理監事大會於4/18舉行，[會議記錄](https://drive.google.com/file/d/0Byfxakd_Uoa5ellVNWRlaEdoNGc/edit?usp=sharing)將於本月送交內政部。
+* 會議相關：第二屆第三次理監事大會會議記錄已送交內政部。
 * 會員管理：[會員清單](https://docs.google.com/spreadsheet/ccc?key=0Aq7L8Y46XVAVdHRlWHNPLUdtU1pyR0kyaXdGX2JpRkE&usp=sharing)，已完成收據開立與建檔，將持續進行會員招募與拜訪。
-* 財務管理：[AppUniverz財務狀況](http://bit.ly/AU-Finance)，截至2014.04.20 結餘為 106,682，報稅資料將於四月底前送交。
-* 其他事項：會址搬遷事宜已與清大育成中心完成MOU洽談，待理事長確認後即可簽署。
+* 財務管理：[AppUniverz財務狀況](http://bit.ly/AU-Finance)，截至2014.05.20 結餘為 111,743，102年度結算已由網路成功申報，6/30前將寄送申報書至北區國稅局。
+* 其他事項：會址搬遷事宜已與清大育成中心完成MOU洽談，待理監事大會決議確認後，理事長即可簽署。
 
 
 ### 業務
@@ -16,13 +16,12 @@
 
 #### 創新(Hackathon)：
 ##### [船長培訓營](https://drive.google.com/folderview?id=0B67L8Y46XVAVZ3BrZnNYZHowZU0&usp=sharing)
-* 營期為七月每個週末六日，以培訓「創新行動服務」團隊成立 Startups 為目標，由 AU 及 DOIT 雙主辦，FlyingV 協辦。培訓地點：DOIT Open Space。
-* 總召(Jessie)/副召(子元)：[活動討論串在FB社團](https://www.facebook.com/groups/620587151369113/)、[營隊規劃](https://drive.google.com/file/d/0Byfxakd_Uoa5a0dLaXY4dHZpVUU/edit?usp=sharing)、[課程規劃](https://docs.google.com/document/d/1-eF2kPJvgzysEfOgC-FMrTrmi-VPLEqF66aZqftePp0/edit?usp=sharing)
-* 活動組(Even)：[團隊執行時程表](https://docs.google.com/spreadsheet/ccc?key=0AqzCZUZLyeo6dFVGeS1iWkZ0TXA4Y3FpQV9sQUdmYmc&usp=sharing)
-* 行銷組(Jason)：[影片拍攝規劃](https://docs.google.com/document/d/1EB6C7EapT57dJY06EaT-q71lgFXyrfghrejXPLA_WV0/edit?usp=sharing)、[粉絲專頁規劃](https://docs.google.com/spreadsheets/d/1uaGcTV1G6GaS0Xnq-I4C8dl4lcr668lr3GNAK6ndFLQ/edit?usp=sharing)
-* 公關組(Jamie)：[邀請信公版](https://docs.google.com/document/d/1Wm1CPaOTJFaHTRyueMYkSTjyqZ03u4S3V3lFkl8xQVM/edit?usp=sharing)、[聯絡窗口清單](https://docs.google.com/spreadsheets/d/1wg07tAhZviW51AIBn--G0v0jahCNLHdDpMcNbjqDzrQ/edit?usp=sharing)
-* 場器組(Null)：[廠商清單](https://drive.google.com/folderview?id=0B545zp5fvSuuQnl1RmY0TzB2Y1E&usp=sharing)
-* 財務組(Janet)：[財務規劃](https://docs.google.com/spreadsheets/d/1d8GmxiNqlX6G1sP-Oi0CchoJBZ5jTebJbuVmrtNhReg/edit?usp=sharing)
+* 營期為七月每個週末六日，以培訓「創新行動服務」團隊成立 Startups 為目標，由 AU 及 DOIT 雙主辦，FlyingV 、Hiiir、Alpha Camp、艾特網路等單位協辦。培訓地點：DOIT Open Space。8/2 Final Demo Day：Microsoft 會議廳。
+* 執行團隊：總召(Jessie)/副召(子元)/活動組(Even)/行銷組(Jason)/公關組(Jamie)/場器組(Null)/財務組(Janet)
+* 活動討論串在[FB社團](https://www.facebook.com/groups/620587151369113/)
+* 營隊規劃：
+* [課程規劃](https://docs.google.com/document/d/1-eF2kPJvgzysEfOgC-FMrTrmi-VPLEqF66aZqftePp0/edit?usp=sharing)
+
 * 其他：積極找尋贊助單位！
 
 #### 行動(Course)：
